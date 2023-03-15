@@ -1,0 +1,13 @@
+### createProject
+POST http://localhost:8080/project
+
+### findAllProjects
+GET http://localhost:8080/project
+
+### updateProject
+PUT http://localhost:8080/project/1
+
+### deleteProjectById
+DELETE http://localhost:8080/project/1
+
+

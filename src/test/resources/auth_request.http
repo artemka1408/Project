@@ -1,0 +1,9 @@
+### authentication
+POST http://localhost:8080/auth
+Content-Type: application/json
+
+{
+  "login": "artemka",
+  "password": "password"
+}
+

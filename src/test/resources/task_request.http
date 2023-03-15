@@ -1,0 +1,15 @@
+### createTask
+POST http://localhost:8080/task
+Content-Type: application/json
+
+### getAllTasks
+GET http://localhost:8080/task
+
+### changeTaskStatus
+PUT http://localhost:8080/task/1
+
+### updateTask
+PUT http://localhost:8080/task
+
+### deleteTask
+DELETE http://localhost:8080
